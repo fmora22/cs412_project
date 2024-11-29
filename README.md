@@ -123,7 +123,3 @@ pip install -r requirements.txt
 ## **Acknowledgments**
 - Dataset contributors on [Kaggle](https://www.kaggle.com/).
 - Python open-source libraries for data science and machine learning.
-
----
-
-Feel free to update this as needed. This README now includes your repository link for others to easily access the project. Let me know if you’d like further refinements!
